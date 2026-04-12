@@ -11,6 +11,7 @@
 		"lint": "eslint ."
 	},
 	"keywords": [],
+	"author": "last-wave",
 	"license": "0-BSD",
 	"devDependencies": {
 		"@types/node": "^16.11.6",
