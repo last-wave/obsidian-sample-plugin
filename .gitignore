@@ -1,11 +1,8 @@
-# vscode
-.vscode 
-
 # Intellij
 *.iml
 .idea
 
-# npm
+# NPM
 node_modules
 
 # Don't include the compiled main.js file in the repo.
@@ -15,8 +12,8 @@ main.js
 # Exclude sourcemaps
 *.map
 
-# obsidian
+# Obsidian
 data.json
 
-# Exclude macOS Finder (System Explorer) View States
+# Exclude MacOS Finder (System Explorer) view states
 .DS_Store
